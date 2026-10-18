@@ -1,0 +1,1 @@
+{"DATA_SOURCE": "CIFAR-10 JPEG mirror (GitHub)", "EXAMPLE": {"index": 8871, "true": "ship", "top3": {"ship": 0.976, "airplane": 0.009, "truck": 0.004}}, "cp1_acc": 54.39000129699707}

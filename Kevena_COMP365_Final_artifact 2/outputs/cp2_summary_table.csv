@@ -1,0 +1,5 @@
+training images,Fine-tuned ResNet-18 (ours),ResNet-18 from scratch,Linear probe (frozen ImageNet),Pixel logistic regression,Gap: fine-tuned − scratch (pts)
+500,51.9 ± 1.0,38.7 ± 0.4,58.8 ± 0.2,28.8 ± 0.1,13.2 ± 1.3
+1000,53.1 ± 0.8,44.9 ± 0.7,61.2 ± 0.9,30.1 ± 0.1,8.2 ± 0.1
+2500,53.0 ± 0.3,45.5 ± 2.2,62.4 ± 0.7,32.7 ± 0.1,7.5 ± 1.9
+5000,53.7 ± 0.5,46.5 ± 0.4,63.8 ± 1.1,34.6 ± 0.3,7.2 ± 0.1
