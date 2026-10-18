@@ -35,6 +35,7 @@ All results in the paper come from `Kevena_COMP365_Checkpoint2_executed.ipynb` a
 * Hardware: one CPU core (PyTorch 2.5.1). The 16 network runs took about 140 s each.
 
 ## How to reproduce
+Model weights (.pt files) are under Releases → v1.0. Download them into the outputs/ folder before running
 1. `pip install -r requirements.txt`
 2. **Delete `outputs/runs/`** so every run is retrained (the saved runs are identified only by method, size and seed,
    so they must not be reused if the data source or any setting changes).
